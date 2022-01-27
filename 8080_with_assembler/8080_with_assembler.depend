@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1607688961 source:c:\users\svaba1012\documents\cpp\8080_with_assembler\8080.c
+	"8080.h"
+
+1607691280 c:\users\svaba1012\documents\cpp\8080_with_assembler\8080.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+	<string.h>
+
+1606938744 source:c:\users\svaba1012\documents\cpp\8080_with_assembler\asm.c
+	"asm.h"
+
+1606929069 c:\users\svaba1012\documents\cpp\8080_with_assembler\asm.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1606929069 source:c:\users\svaba1012\documents\cpp\8080_with_assembler\main.c
+	<stdio.h>
+	<stdlib.h>
+	"8080.h"
+	"asm.h"
+

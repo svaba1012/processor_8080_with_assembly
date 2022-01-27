@@ -1,0 +1,6 @@
+MVI B, 5;
+MVI A, 1H;hahahah
+MVI C, 2;
+ADD C;
+CMP B;
+JNZ 6;
